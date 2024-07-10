@@ -1,0 +1,5 @@
+public class addnew {
+    public static void main(String[] args) {
+        System.out.println("samman");
+    }
+}
